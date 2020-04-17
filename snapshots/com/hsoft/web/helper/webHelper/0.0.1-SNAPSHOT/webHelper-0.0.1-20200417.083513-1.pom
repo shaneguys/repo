@@ -189,12 +189,12 @@
 	<distributionManagement>
 		<repository>
 			<id>release</id>
-			<url>https://github.com/shaneguys/raw/release</url>
+			<url>https://github.com/shaneguys/repo/tree/release</url>
 		</repository>
 
 		<snapshotRepository>
 			<id>snapshot</id>
-			<url>https://github.com/shaneguys/repo/raw/master/snapshots</url>
+			<url>https://github.com/shaneguys/repo/tree/master/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
