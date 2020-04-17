@@ -1,4 +1,5 @@
 ---html
+
 	<dependency>
 		<groupId>com.hsoft.web.helper</groupId>
 		<artifactId>webHelper</artifactId>
@@ -10,4 +11,5 @@
 		<name>webHelper Repository</name>
 		<url>https://github.com/shaneguys/repo</url>
 	</repository>
+	
 ---html
