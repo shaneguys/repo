@@ -9,6 +9,6 @@
 	<repository>
 		<id>shaneguy webHelper</id>
 		<name>webHelper Repository</name>
-		<url>https://github.com/shaneguys/repo</url>
+		<url>https://github.com/shaneguys/repo.git</url>
 	</repository>
 	
