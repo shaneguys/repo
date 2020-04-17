@@ -194,7 +194,7 @@
 
 		<snapshotRepository>
 			<id>snapshot</id>
-			<url>https://github.com/shaneguys/repo/snapshots</url>
+			<url>https://github.com/shaneguys/repo/tree/master/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
