@@ -1,4 +1,4 @@
----html
+
 
 	<dependency>
 		<groupId>com.hsoft.web.helper</groupId>
@@ -12,4 +12,3 @@
 		<url>https://github.com/shaneguys/repo</url>
 	</repository>
 	
----html
