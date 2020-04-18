@@ -7,8 +7,8 @@
 	</dependency>
 
 	<repository>
-		<id>shaneguy webHelper</id>
-		<name>webHelper Repository</name>
-		<url>https://github.com/shaneguys/repo.git</url>
+		<id>hsoft</id>
+		<name>webhelper</name>
+		<url>https://raw.github.com/shaneguys/repo/master/snapshots</url>
 	</repository>
 	
