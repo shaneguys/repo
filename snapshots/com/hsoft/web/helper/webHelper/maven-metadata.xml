@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.hsoft.web.helper</groupId>
+  <artifactId>webHelper</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200423014927</lastUpdated>
+  </versioning>
+</metadata>
