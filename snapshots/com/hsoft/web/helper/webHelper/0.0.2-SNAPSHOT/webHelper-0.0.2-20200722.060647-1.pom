@@ -179,6 +179,17 @@
 					<target>${java.version}</target>
 				</configuration>
 			</plugin>
+			<!-- <plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<verbose>true</verbose>
+					<fork>true</fork>
+					<executable>path-to-javac
+					</executable>
+					<compilerVersion>${java.version}</compilerVersion>
+				</configuration>
+			</plugin> -->
 		</plugins>
 	</build>
 
